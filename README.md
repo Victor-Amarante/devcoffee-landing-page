@@ -1,4 +1,4 @@
-# My Landing Page Project
+# Landing Page Project
 
 This project is a landing page I created to practice my HTML and CSS skills. It showcases a clean, responsive design based on a template inspired by [Rafaella Ballerini's Youtube Channel](https://www.youtube.com/@rafaellaballerini/featured), demonstrating my knowledge of basic web development technologies.
 
